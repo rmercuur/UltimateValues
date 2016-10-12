@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="repast.simphony.bin_and_src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/repast.simphony.bin_and_src.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/repast.simphony.bin_and_src.jar!/" />
+    </SOURCES>
+  </library>
+</component>

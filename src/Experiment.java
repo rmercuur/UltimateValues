@@ -22,7 +22,7 @@ public class Experiment {
 
         agentList=new ArrayList<Agent>();
         for(int i=0; i< nrOfAgents; i++){
-            agentList.add(new RationalAgent());
+            agentList.add(new SocialAgent());
         }
         roundList=new ArrayList<Round>();
         for(int i=0; i< nrOfRounds; i++){
